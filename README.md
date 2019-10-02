@@ -4,8 +4,6 @@
 Ce projet est une initiation à NodeJS et express avec une base de données mongoDB. Il consiste à realiser la majeure partie des fonctionnalités de [Reddit](https://www.reddit.com/).
 Il est réalisé avec Express, un framework Javascript destiné principalement au back.
 
----
-
 ## Installation
 ### Prérequis
 - [NodeJS v12.10.0](https://nodejs.org/en/download/)
@@ -19,8 +17,6 @@ Il est réalisé avec Express, un framework Javascript destiné principalement a
 express --css=sass --view=twig --git
 ```
 
----
-
 ## Développement
 - Installer le projet
 ```sh
@@ -31,8 +27,6 @@ npm install
 ```sh
 npm run dev
 ```
-
----
 
 ## Routes
 
