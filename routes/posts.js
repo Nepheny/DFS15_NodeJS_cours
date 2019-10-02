@@ -7,8 +7,8 @@ const mongo = require('../bin/mongo');
 const ObjectId = require('mongodb').ObjectId;
 
 /**
-     * GET posts listing
-     */
+ * GET posts listing
+ */
 router.get('/', function (req, res, next) {
     let request = req.query.sub
         ? {
